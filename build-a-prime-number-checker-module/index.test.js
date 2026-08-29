@@ -1,0 +1,1 @@
+const primeChecker = require('./index');

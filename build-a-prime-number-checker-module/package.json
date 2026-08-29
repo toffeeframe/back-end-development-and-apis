@@ -1,0 +1,17 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "simple prime number checker module",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "Rabea Alhaffar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.test.js"
+  }
+}

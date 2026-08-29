@@ -1,0 +1,24 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "personal profile app certificate project",
+  "keywords": [
+    "personal",
+    "profile",
+    "portoflio",
+    "app",
+    "express",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "author": "Rabea Alhaffar",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
